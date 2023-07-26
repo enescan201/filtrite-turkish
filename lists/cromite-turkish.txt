@@ -17,7 +17,7 @@ https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
 
 # CNAME record trackers
-# https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
 
 # Third party fonts
 https://fanboy.co.nz/fanboy-antifonts.txt
@@ -28,7 +28,7 @@ https://easylist.to/easylist/fanboy-social.txt
 # Annoyances on Twitter
 https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
 
-# Special1
+# Special
 https://filters.adtidy.org/extension/ublock/filters/13.txt
 https://filters.adtidy.org/extension/ublock/filters/2.txt
 https://filters.adtidy.org/extension/ublock/filters/3.txt
