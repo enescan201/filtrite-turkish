@@ -16,10 +16,6 @@ https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
 
-# Other uBlock Origin filters
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
-
 # CNAME record trackers
 # https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
 
@@ -32,11 +28,10 @@ https://easylist.to/easylist/fanboy-social.txt
 # Annoyances on Twitter
 https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
 
-# My own block list
-https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
-
 # Special1
 https://filters.adtidy.org/extension/ublock/filters/13.txt
 https://filters.adtidy.org/extension/ublock/filters/2.txt
 https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/11.txt
+https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt?_=3
+https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw
