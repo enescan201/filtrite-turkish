@@ -16,9 +16,6 @@ https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
 
-# CNAME record trackers
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
-
 # Third party fonts
 https://fanboy.co.nz/fanboy-antifonts.txt
 
