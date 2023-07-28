@@ -13,7 +13,6 @@
 * Fanboy's Annoyance List
 * Easylist Cookie List
 * AdGuard Annoyances filter
-* Combined Disguised Trackers
 * Fanboy's Anti-thirdparty Fonts
 * Fanboy's Social Blocking List
 * CleanYourTwitter
