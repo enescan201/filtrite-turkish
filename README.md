@@ -21,4 +21,3 @@
 * AdGuard Tracking Protection filter
 * AdGuard Turkish filter
 * Fuck Fuckadblock
-* FMHY Unsafe Sites / Software
